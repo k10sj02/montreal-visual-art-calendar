@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<meta name="description" content="An independent calendar of visual-art events and vernissages in Montréal.">
+<title>Montréal Visual Art &amp; Vernissages Calendar</title>
+<style>body{font:18px/1.6 system-ui;max-width:750px;margin:60px auto;padding:20px}a{color:#a6192e}input{width:100%;box-sizing:border-box;font-size:16px;padding:8px}@media(max-width:600px){body{margin:20px auto}}</style>
+<h1>Montréal Visual Art &amp; Vernissages Calendar</h1>
+<p>An automatically refreshed calendar of vernissages, artist talks, tours, workshops, launches, and other scheduled visual-art events in Tiohtià:ke/Montréal.</p>
+<p><a id="subscription" href="montreal-visual-art.ics">Subscribe in Apple Calendar</a> · <a href="montreal-visual-art.ics">Download calendar</a></p>
+<p>For Google Calendar, choose Other calendars → + → From URL, then paste:</p>
+<input id="url" aria-label="Calendar subscription URL" readonly>
+<p><a href="status.json">Last refresh status</a> · <a href="https://reseauartactuel.org/">Réseau Art Actuel</a> · <a href="https://www.cca.qc.ca/en/calendar/">CCA</a> · <a href="https://centrededesign.com/">Centre de design de l’UQAM</a> · <a href="https://github.com/k10sj02/montreal-visual-art-calendar">Source code</a></p>
+<p>Refreshes every six hours; your calendar app controls how quickly changes appear. Check the original listing before attending.</p>
+<script>const u=new URL('montreal-visual-art.ics',location.href);document.querySelector('#url').value=u.href;document.querySelector('#subscription').href=u.href.replace(/^https?:/,'webcal:');</script>
+</html>

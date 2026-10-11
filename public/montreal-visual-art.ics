@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Montréal Visual Art and Vernissages Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Montréal Visual Art & Vernissages
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:The Archival Exhibition with Mark Wasiuta
+DTSTART;TZID=America/Toronto:20261015T180000
+DTSTAMP:20261011T031638Z
+UID:8914bf0f3cb4cc3d42c855101147@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105665/the-a
+ rchival-exhibition-with-mark-wasiuta
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/105665/the-archival-exhibition-with-ma
+ rk-wasiuta
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 à 6 for Primary and High School Teachers
+DTSTART;TZID=America/Toronto:20261016T160000
+DTSTAMP:20261011T031638Z
+UID:e9a3c85fc7088a1ef6dbba7ecc15@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105882/4-a-6
+ -for-primary-and-high-school-teachers
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/105882/4-a-6-for-primary-and-high-scho
+ ol-teachers
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vernissage: Architectures outsider
+DTSTART;TZID=America/Toronto:20261021T180000
+DTSTAMP:20261011T031638Z
+UID:87f71d0652851a4de4f827873668@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:22 Oct — 13 Déc Architectures outsider Relevés et maquett
+ es-sculptures de Katherine Lapierre L’exposition présente une vingtaine
+  de maquettes-sculptures et de relevés de projets de bâtisseur·euses ou
+ tsider documentés depuis plus de vingt ans par Katherine Lapierre Verniss
+ age le 21 oct. à 18h Exposition à venir\nOriginal listing: https://centr
+ ededesign.com/architectures-outsider/
+LOCATION:Centre de design de l’UQAM\, 1440 rue Sanguinet\, Montréal\, Q
+ C H2X 3X9
+STATUS:CONFIRMED
+URL:https://centrededesign.com/architectures-outsider/
+X-MONTREAL-VISUAL-ART-SOURCE:uqam-design
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rencontre: The World of Shapes de Jeanie Riddle
+DTSTART;TZID=America/Toronto:20261024T140000
+DTSTAMP:20261011T031638Z
+UID:3622d62203ff38cd3d3c9dc7c8e7@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Vernissage le jeudi 24 septembre à 18h\nOriginal listing: htt
+ ps://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle/
+LOCATION:Livart\, 3980\, rue Saint-Denis\, Montréal\, H2W 2M2
+STATUS:CONFIRMED
+URL:https://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle
+ /
+X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Capital: People\, Place\, Practice\, with Farida Abu-Bak
+ are
+DTSTART;TZID=America/Toronto:20261029T180000
+DTSTAMP:20261011T031638Z
+UID:82397fa4bb7b2f900bbe8707f1dc@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/105959
+ /community-capital-people-place-practice-with-farida-abu-bakare
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/105959/community-capital-people-place-
+ practice-with-farida-abu-bakare
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier: The World of Shapes de Jeanie Riddle
+DTSTART;TZID=America/Toronto:20261031T140000
+DTSTAMP:20261011T031638Z
+UID:d9933ab7b95b9e182b335ad27787@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Vernissage le jeudi 24 septembre à 18h\nOriginal listing: htt
+ ps://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle/
+LOCATION:Livart\, 3980\, rue Saint-Denis\, Montréal\, H2W 2M2
+STATUS:CONFIRMED
+URL:https://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle
+ /
+X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Architecture Playtime
+DTSTART;TZID=America/Toronto:20261101T110000
+DTSTAMP:20261011T031638Z
+UID:cbdec72e0ff727ca03c9b44b5abe@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
+ s/103108/architecture-playtime
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/103108/architecture-playtime
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition tours on the first Sunday of the month
+DTSTART;TZID=America/Toronto:20261101T130000
+DTSTAMP:20261011T031638Z
+UID:5bcf192bec37bc7432d7d27413a8@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
+ /103508/exhibition-tours-on-the-first-sunday-of-the-month
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/103508/exhibition-tours-on-the-first-s
+ unday-of-the-month
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:States of Emergency with Leopold Lambert
+DTSTART;TZID=America/Toronto:20261112T180000
+DTSTAMP:20261011T031638Z
+UID:f426fcef9b78a8a8f713200614c8@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105989/state
+ s-of-emergency-with-leopold-lambert
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/105989/states-of-emergency-with-leopol
+ d-lambert
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening: Building Material Cultures: Reengaging Senegalese Craft-B
+ ased Building Traditions
+DTSTART;TZID=America/Toronto:20261120T160000
+DTSTAMP:20261011T031638Z
+UID:9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Opening\nOriginal listing: https://www.cca.qc.ca/en/events/105
+ 966/opening-building-material-cultures-reengaging-senegalese-craft-based-b
+ uilding-traditions
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/105966/opening-building-material-cultu
+ res-reengaging-senegalese-craft-based-building-traditions
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+END:VCALENDAR
