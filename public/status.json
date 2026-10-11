@@ -1,12 +1,11 @@
 {
-  "generated": "2026-10-11T09:37:31.155138-04:00",
+  "generated": "2026-10-11T18:34:03.865378-04:00",
   "count": 10,
   "cancelled": 0,
   "sources": {
     "reseau-art-actuel": 2,
-    "cca": 7
+    "cca": 7,
+    "uqam-design": 1
   },
-  "errors": {
-    "uqam-design": "No current Centre de design events found"
-  }
+  "errors": {}
 }
