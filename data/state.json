@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:02:36.900700-04:00",
+  "updated": "2026-10-16T17:49:00.088902-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -92,6 +92,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "1fd19436592f1eb34e35288abdc3@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "community-capital-what-we-build-together-2026-10-31T13:00:00-04:00",
+      "title": "Community Capital: What We Build Together",
+      "start": "2026-10-31T13:00:00-04:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106130/community-capital-what-we-build-together",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "cbdec72e0ff727ca03c9b44b5abe@montreal-visual-art": {
       "source": "cca",
       "source_id": "architecture-playtime-2026-11-01T11:00:00-05:00",
@@ -168,7 +181,7 @@
       "url": "https://www.cca.qc.ca/en/events/105665/the-archival-exhibition-with-mark-wasiuta",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "87f71d0652851a4de4f827873668@montreal-visual-art": {
       "source": "uqam-design",
@@ -181,7 +194,7 @@
       "url": "https://centrededesign.com/architectures-outsider/",
       "description": "22 Oct — 13 Déc Architectures outsider Relevés et maquettes-sculptures de Katherine Lapierre L’exposition présente une vingtaine de maquettes-sculptures et de relevés de projets de bâtisseur·euses outsider documentés depuis plus de vingt ans par Katherine Lapierre Vernissage le 21 oct. à 18h Exposition à venir",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     }
   }
 }
