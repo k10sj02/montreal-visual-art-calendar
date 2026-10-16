@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:15:13.327301-04:00",
+  "updated": "2026-10-16T07:59:19.249353-04:00",
   "events": {
     "a8f4aeae0248014ab4d85ac891f6@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -141,8 +141,8 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/105665/the-archival-exhibition-with-mark-wasiuta",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "87f71d0652851a4de4f827873668@montreal-visual-art": {
       "source": "uqam-design",
@@ -155,7 +155,7 @@
       "url": "https://centrededesign.com/architectures-outsider/",
       "description": "22 Oct — 13 Déc Architectures outsider Relevés et maquettes-sculptures de Katherine Lapierre L’exposition présente une vingtaine de maquettes-sculptures et de relevés de projets de bâtisseur·euses outsider documentés depuis plus de vingt ans par Katherine Lapierre Vernissage le 21 oct. à 18h Exposition à venir",
       "status": "CANCELLED",
-      "missing_runs": 10
+      "missing_runs": 11
     }
   }
 }
