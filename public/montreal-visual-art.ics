@@ -9,7 +9,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 SUMMARY:The Archival Exhibition with Mark Wasiuta
 DTSTART;TZID=America/Toronto:20261015T180000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:8914bf0f3cb4cc3d42c855101147@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105665/the-a
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 à 6 for Primary and High School Teachers
 DTSTART;TZID=America/Toronto:20261016T160000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:e9a3c85fc7088a1ef6dbba7ecc15@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105882/4-a-6
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Jou Lee et Donald Andrus
 DTSTART;TZID=America/Toronto:20261016T170000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:a8f4aeae0248014ab4d85ac891f6@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le vendredi 16 octobre à 17h à Galerie L’Onyx\n
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Architectures outsider
 DTSTART;TZID=America/Toronto:20261021T180000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:82d790896e6b414ba7b8483ade5e@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:22 Oct — 13 Déc Architectures outsider L’exposition prés
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Architectures outsider
 DTSTART;TZID=America/Toronto:20261021T180000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:87f71d0652851a4de4f827873668@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:22 Oct — 13 Déc Architectures outsider Relevés et maquett
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rencontre: The World of Shapes de Jeanie Riddle
 DTSTART;TZID=America/Toronto:20261024T140000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:3622d62203ff38cd3d3c9dc7c8e7@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 24 septembre à 18h\nOriginal listing: htt
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Community Capital: People\, Place\, Practice\, with Farida Abu-Bak
  are
 DTSTART;TZID=America/Toronto:20261029T180000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:82397fa4bb7b2f900bbe8707f1dc@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/105959
@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: The World of Shapes de Jeanie Riddle
 DTSTART;TZID=America/Toronto:20261031T140000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:d9933ab7b95b9e182b335ad27787@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 24 septembre à 18h\nOriginal listing: htt
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Architecture Playtime
 DTSTART;TZID=America/Toronto:20261101T110000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:cbdec72e0ff727ca03c9b44b5abe@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition tours on the first Sunday of the month
 DTSTART;TZID=America/Toronto:20261101T130000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:5bcf192bec37bc7432d7d27413a8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -161,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:States of Emergency with Leopold Lambert
 DTSTART;TZID=America/Toronto:20261112T180000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:f426fcef9b78a8a8f713200614c8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105989/state
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Opening: Building Material Cultures: Reengaging Senegalese Craft-B
  ased Building Traditions
 DTSTART;TZID=America/Toronto:20261120T160000
-DTSTAMP:20261015T215210Z
+DTSTAMP:20261016T051513Z
 UID:9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Opening\nOriginal listing: https://www.cca.qc.ca/en/events/105

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:52:10.998758-04:00",
+  "updated": "2026-10-16T01:15:13.327301-04:00",
   "events": {
     "a8f4aeae0248014ab4d85ac891f6@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -37,19 +37,6 @@
       "address": "3980, rue Saint-Denis, Montréal, H2W 2M2",
       "url": "https://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle/",
       "description": "Vernissage le jeudi 24 septembre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "8914bf0f3cb4cc3d42c855101147@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "the-archival-exhibition-with-mark-wasiuta-2026-10-15T18:00:00-04:00",
-      "title": "The Archival Exhibition with Mark Wasiuta",
-      "start": "2026-10-15T18:00:00-04:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/105665/the-archival-exhibition-with-mark-wasiuta",
-      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -144,6 +131,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "8914bf0f3cb4cc3d42c855101147@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "the-archival-exhibition-with-mark-wasiuta-2026-10-15T18:00:00-04:00",
+      "title": "The Archival Exhibition with Mark Wasiuta",
+      "start": "2026-10-15T18:00:00-04:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/105665/the-archival-exhibition-with-mark-wasiuta",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "87f71d0652851a4de4f827873668@montreal-visual-art": {
       "source": "uqam-design",
       "source_id": "architectures-outsider-2026-10-21T18:00:00-04:00",
@@ -155,7 +155,7 @@
       "url": "https://centrededesign.com/architectures-outsider/",
       "description": "22 Oct — 13 Déc Architectures outsider Relevés et maquettes-sculptures de Katherine Lapierre L’exposition présente une vingtaine de maquettes-sculptures et de relevés de projets de bâtisseur·euses outsider documentés depuis plus de vingt ans par Katherine Lapierre Vernissage le 21 oct. à 18h Exposition à venir",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     }
   }
 }
