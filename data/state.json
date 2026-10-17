@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:49:00.088902-04:00",
+  "updated": "2026-10-17T01:10:29.910838-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -27,19 +27,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "a8f4aeae0248014ab4d85ac891f6@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "13294-2026-10-16T17:00:00-04:00",
-      "title": "Vernissage: Jou Lee et Donald Andrus",
-      "start": "2026-10-16T17:00:00-04:00",
-      "end": null,
-      "venue": "Pictura Triennale de peinture de Montréal",
-      "address": "Montréal, H2S 1N1 ",
-      "url": "https://reseauartactuel.org/evenement/donald-andrus-et-jou-lee/",
-      "description": "Vernissage le vendredi 16 octobre à 17h à Galerie L’Onyx",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "3622d62203ff38cd3d3c9dc7c8e7@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "12921-2026-10-24T14:00:00-04:00",
@@ -63,19 +50,6 @@
       "address": "3980, rue Saint-Denis, Montréal, H2W 2M2",
       "url": "https://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle/",
       "description": "Vernissage le jeudi 24 septembre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e9a3c85fc7088a1ef6dbba7ecc15@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "4-a-6-for-primary-and-high-school-teachers-2026-10-16T16:00:00-04:00",
-      "title": "4 à 6 for Primary and High School Teachers",
-      "start": "2026-10-16T16:00:00-04:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/105882/4-a-6-for-primary-and-high-school-teachers",
-      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -170,18 +144,31 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "8914bf0f3cb4cc3d42c855101147@montreal-visual-art": {
+    "a8f4aeae0248014ab4d85ac891f6@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "13294-2026-10-16T17:00:00-04:00",
+      "title": "Vernissage: Jou Lee et Donald Andrus",
+      "start": "2026-10-16T17:00:00-04:00",
+      "end": null,
+      "venue": "Pictura Triennale de peinture de Montréal",
+      "address": "Montréal, H2S 1N1 ",
+      "url": "https://reseauartactuel.org/evenement/donald-andrus-et-jou-lee/",
+      "description": "Vernissage le vendredi 16 octobre à 17h à Galerie L’Onyx",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "e9a3c85fc7088a1ef6dbba7ecc15@montreal-visual-art": {
       "source": "cca",
-      "source_id": "the-archival-exhibition-with-mark-wasiuta-2026-10-15T18:00:00-04:00",
-      "title": "The Archival Exhibition with Mark Wasiuta",
-      "start": "2026-10-15T18:00:00-04:00",
+      "source_id": "4-a-6-for-primary-and-high-school-teachers-2026-10-16T16:00:00-04:00",
+      "title": "4 à 6 for Primary and High School Teachers",
+      "start": "2026-10-16T16:00:00-04:00",
       "end": null,
       "venue": "Canadian Centre for Architecture",
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/105665/the-archival-exhibition-with-mark-wasiuta",
+      "url": "https://www.cca.qc.ca/en/events/105882/4-a-6-for-primary-and-high-school-teachers",
       "description": "",
-      "status": "CANCELLED",
-      "missing_runs": 4
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
     "87f71d0652851a4de4f827873668@montreal-visual-art": {
       "source": "uqam-design",
@@ -194,7 +181,7 @@
       "url": "https://centrededesign.com/architectures-outsider/",
       "description": "22 Oct — 13 Déc Architectures outsider Relevés et maquettes-sculptures de Katherine Lapierre L’exposition présente une vingtaine de maquettes-sculptures et de relevés de projets de bâtisseur·euses outsider documentés depuis plus de vingt ans par Katherine Lapierre Vernissage le 21 oct. à 18h Exposition à venir",
       "status": "CANCELLED",
-      "missing_runs": 13
+      "missing_runs": 14
     }
   }
 }
