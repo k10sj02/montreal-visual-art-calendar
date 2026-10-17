@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:15:03.611140-04:00",
+  "updated": "2026-10-17T12:00:32.905612-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -155,7 +155,7 @@
       "url": "https://reseauartactuel.org/evenement/donald-andrus-et-jou-lee/",
       "description": "Vernissage le vendredi 16 octobre à 17h à Galerie L’Onyx",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "e9a3c85fc7088a1ef6dbba7ecc15@montreal-visual-art": {
       "source": "cca",
@@ -168,7 +168,7 @@
       "url": "https://www.cca.qc.ca/en/events/105882/4-a-6-for-primary-and-high-school-teachers",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "87f71d0652851a4de4f827873668@montreal-visual-art": {
       "source": "uqam-design",
@@ -181,7 +181,7 @@
       "url": "https://centrededesign.com/architectures-outsider/",
       "description": "22 Oct — 13 Déc Architectures outsider Relevés et maquettes-sculptures de Katherine Lapierre L’exposition présente une vingtaine de maquettes-sculptures et de relevés de projets de bâtisseur·euses outsider documentés depuis plus de vingt ans par Katherine Lapierre Vernissage le 21 oct. à 18h Exposition à venir",
       "status": "CANCELLED",
-      "missing_runs": 15
+      "missing_runs": 16
     }
   }
 }
