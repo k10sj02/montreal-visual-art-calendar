@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T17:07:20.609767-04:00",
+  "updated": "2026-10-18T01:15:14.699945-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -155,7 +155,7 @@
       "url": "https://centrededesign.com/architectures-outsider/",
       "description": "22 Oct — 13 Déc Architectures outsider Relevés et maquettes-sculptures de Katherine Lapierre L’exposition présente une vingtaine de maquettes-sculptures et de relevés de projets de bâtisseur·euses outsider documentés depuis plus de vingt ans par Katherine Lapierre Vernissage le 21 oct. à 18h Exposition à venir",
       "status": "CANCELLED",
-      "missing_runs": 17
+      "missing_runs": 18
     }
   }
 }
