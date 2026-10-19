@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T10:08:46.181488-04:00",
+  "updated": "2026-10-19T18:41:04.989213-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -10,7 +10,7 @@
       "venue": "Galerie McClure ",
       "address": "350, avenue Victoria, Montréal, H3Z 2N4",
       "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
-      "description": "Vernisssage le jeudi 22 ocotbre",
+      "description": "Vernisssage le jeudi 22 octotbre à 18h",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -23,7 +23,7 @@
       "venue": "Galerie McClure ",
       "address": "350, avenue Victoria, Montréal, H3Z 2N4",
       "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
-      "description": "Vernisssage le jeudi 22 ocotbre",
+      "description": "Vernisssage le jeudi 22 octotbre à 18h",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -105,6 +105,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "8c1cc9008f5622f6320acbbbb8a9@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "home-finding-2026-11-05T18:00:00-05:00",
+      "title": "Home Finding",
+      "start": "2026-11-05T18:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106182/home-finding",
+      "description": "Talk",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "f426fcef9b78a8a8f713200614c8@montreal-visual-art": {
       "source": "cca",
       "source_id": "states-of-emergency-with-leopold-lambert-2026-11-12T18:00:00-05:00",
@@ -155,7 +168,7 @@
       "url": "https://centrededesign.com/architectures-outsider/",
       "description": "22 Oct — 13 Déc Architectures outsider Relevés et maquettes-sculptures de Katherine Lapierre L’exposition présente une vingtaine de maquettes-sculptures et de relevés de projets de bâtisseur·euses outsider documentés depuis plus de vingt ans par Katherine Lapierre Vernissage le 21 oct. à 18h Exposition à venir",
       "status": "CANCELLED",
-      "missing_runs": 23
+      "missing_runs": 24
     }
   }
 }
