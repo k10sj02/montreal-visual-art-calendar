@@ -9,7 +9,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 SUMMARY:Vernissage: Architectures outsider
 DTSTART;TZID=America/Toronto:20261021T180000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:82d790896e6b414ba7b8483ade5e@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:22 Oct — 13 Déc Architectures outsider L’exposition prés
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Architectures outsider
 DTSTART;TZID=America/Toronto:20261021T180000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:87f71d0652851a4de4f827873668@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:22 Oct — 13 Déc Architectures outsider Relevés et maquett
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rencontre: The World of Shapes de Jeanie Riddle
 DTSTART;TZID=America/Toronto:20261024T140000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:3622d62203ff38cd3d3c9dc7c8e7@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 24 septembre à 18h\nOriginal listing: htt
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Community Capital: People\, Place\, Practice\, with Farida Abu-Bak
  are
 DTSTART;TZID=America/Toronto:20261029T180000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:82397fa4bb7b2f900bbe8707f1dc@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/105959
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Capital: What We Build Together
 DTSTART;TZID=America/Toronto:20261031T130000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:1fd19436592f1eb34e35288abdc3@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106130/commu
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: The World of Shapes de Jeanie Riddle
 DTSTART;TZID=America/Toronto:20261031T140000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:d9933ab7b95b9e182b335ad27787@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 24 septembre à 18h\nOriginal listing: htt
@@ -103,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Architecture Playtime
 DTSTART;TZID=America/Toronto:20261101T110000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:cbdec72e0ff727ca03c9b44b5abe@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
@@ -117,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition tours on the first Sunday of the month
 DTSTART;TZID=America/Toronto:20261101T130000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:5bcf192bec37bc7432d7d27413a8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:States of Emergency with Leopold Lambert
 DTSTART;TZID=America/Toronto:20261112T180000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:f426fcef9b78a8a8f713200614c8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105989/state
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Opening: Building Material Cultures: Reengaging Senegalese Craft-B
  ased Building Traditions
 DTSTART;TZID=America/Toronto:20261120T160000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Opening\nOriginal listing: https://www.cca.qc.ca/en/events/105
@@ -164,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T103000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:7f4fed6da09c9be40cf729f5c358@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 ocotbre\nOriginal listing: https://res
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Table ronde: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261019T052703Z
+DTSTAMP:20261019T140846Z
 UID:d90faca674e0d7c10c4da8ddfa27@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 ocotbre\nOriginal listing: https://res
