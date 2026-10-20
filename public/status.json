@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-20T13:37:00.921932-04:00",
-  "count": 12,
+  "generated": "2026-10-20T17:59:12.867155-04:00",
+  "count": 14,
   "cancelled": 1,
   "sources": {
     "reseau-art-actuel": 4,
-    "cca": 7,
+    "cca": 9,
     "uqam-design": 1
   },
   "errors": {}
