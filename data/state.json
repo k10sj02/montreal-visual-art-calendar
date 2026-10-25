@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T08:11:17.380150-04:00",
+  "updated": "2026-10-25T12:53:58.486795-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -168,7 +168,7 @@
       "url": "https://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle/",
       "description": "Vernissage le jeudi 24 septembre à 18h",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     }
   }
 }
