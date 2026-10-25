@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T01:28:16.078365-04:00",
+  "updated": "2026-10-25T08:11:17.380150-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -167,8 +167,8 @@
       "address": "3980, rue Saint-Denis, Montréal, H2W 2M2",
       "url": "https://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle/",
       "description": "Vernissage le jeudi 24 septembre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
