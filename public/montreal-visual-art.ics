@@ -9,7 +9,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 SUMMARY:Vernissage: Foi ou feu de Jean-François Bouchard
 DTSTART;TZID=America/Toronto:20261027T173000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:c6f6f5375e8a42dece02bb17f442@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le mardi 27 octobre à 17h30\nOriginal listing: htt
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: HYMNES de Stephanie Comilang
 DTSTART;TZID=America/Toronto:20261027T173000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:4792c4afecf2c99c75d659d91911@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le mardi 27 octobre à 17h30\nOriginal listing: htt
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Community Capital: People\, Place\, Practice\, with Farida Abu-Bak
  are
 DTSTART;TZID=America/Toronto:20261029T180000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:82397fa4bb7b2f900bbe8707f1dc@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/105959
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Capital: What We Build Together
 DTSTART;TZID=America/Toronto:20261031T130000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:1fd19436592f1eb34e35288abdc3@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106130/commu
@@ -68,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: The World of Shapes de Jeanie Riddle
 DTSTART;TZID=America/Toronto:20261031T140000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:d9933ab7b95b9e182b335ad27787@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 24 septembre à 18h\nOriginal listing: htt
@@ -82,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Architecture Playtime
 DTSTART;TZID=America/Toronto:20261101T110000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:cbdec72e0ff727ca03c9b44b5abe@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition tours on the first Sunday of the month
 DTSTART;TZID=America/Toronto:20261101T130000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:5bcf192bec37bc7432d7d27413a8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Home Finding
 DTSTART;TZID=America/Toronto:20261105T180000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:8c1cc9008f5622f6320acbbbb8a9@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/106182
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Designing Sovereignty: Pathways of Indigenous Design Thinking
 DTSTART;TZID=America/Toronto:20261107T140000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:995e3dafb828bc1944a43d182052@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106193/desig
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:States of Emergency with Leopold Lambert
 DTSTART;TZID=America/Toronto:20261112T180000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:f426fcef9b78a8a8f713200614c8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105989/state
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Opening: Building Material Cultures: Reengaging Senegalese Craft-B
  ased Building Traditions
 DTSTART;TZID=America/Toronto:20261120T160000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Opening\nOriginal listing: https://www.cca.qc.ca/en/events/105
@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Border Tuner with Rafael Lozano-Hemmer
 DTSTART;TZID=America/Toronto:20261126T180000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:0f4c5660cc5979563f5c7ce18d18@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Book launch\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T103000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:7f4fed6da09c9be40cf729f5c358@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Table ronde: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261027T125030Z
+DTSTAMP:20261027T183137Z
 UID:d90faca674e0d7c10c4da8ddfa27@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
