@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T02:25:39.171958-04:00",
+  "updated": "2026-10-28T09:39:21.341057-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -167,8 +167,8 @@
       "address": "451 et 465, rue Saint-Jean et 407 rue Saint-Pierre, Montréal, H2Y 2R5 et H2Y 2M3",
       "url": "https://reseauartactuel.org/evenement/13689/",
       "description": "Vernissage le mardi 27 octobre à 17h30",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4792c4afecf2c99c75d659d91911@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -180,8 +180,8 @@
       "address": "451 et 465, rue Saint-Jean et 407 rue Saint-Pierre, Montréal, H2Y 2R5 et H2Y 2M3",
       "url": "https://reseauartactuel.org/evenement/hymnes-de-stephanie-comilang/",
       "description": "Vernissage le mardi 27 octobre à 17h30",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
