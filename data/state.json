@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:36:31.693050-04:00",
+  "updated": "2026-10-30T09:42:51.303847-04:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -154,8 +154,8 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/105959/community-capital-people-place-practice-with-farida-abu-bakare",
       "description": "Talk",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
