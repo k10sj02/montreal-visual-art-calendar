@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-30T09:42:51.303847-04:00",
+  "updated": "2026-10-30T18:42:47.835067-04:00",
   "events": {
+    "6d05ac306587862c61610eb6b9e3@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "13835-2026-11-05T17:00:00-05:00",
+      "title": "Vernissage: Evridiki Spiliad et Catherine Beaudette",
+      "start": "2026-11-05T17:00:00-05:00",
+      "end": null,
+      "venue": "Occurrence",
+      "address": "108-5455, ave De Gaspé, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/13835/",
+      "description": "Vernissage le jeudi 5 novembre à 17h à Occurrence",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "155fbcb5c8b12d0d23c71a30e99b@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "13808-2026-11-05T17:30:00-05:00",
+      "title": "Vernissage: Excavation et ablution de Janeva L. Fauve",
+      "start": "2026-11-05T17:30:00-05:00",
+      "end": null,
+      "venue": "CIRCA art actuel",
+      "address": "444-372, rue Ste-Catherine Ouest, Montréal, H3B 1A2",
+      "url": "https://reseauartactuel.org/evenement/excavation-et-ablution-de-janeva-l-fauve/",
+      "description": "Vernissage jeudi le 5 novembre à 17h30",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "13494-2026-11-28T10:30:00-05:00",
@@ -143,19 +169,6 @@
       "description": "Opening",
       "status": "CONFIRMED",
       "missing_runs": 0
-    },
-    "82397fa4bb7b2f900bbe8707f1dc@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "community-capital-people-place-practice-with-farida-abu-bakare-2026-10-29T18:00:00-04:00",
-      "title": "Community Capital: People, Place, Practice, with Farida Abu-Bakare",
-      "start": "2026-10-29T18:00:00-04:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/105959/community-capital-people-place-practice-with-farida-abu-bakare",
-      "description": "Talk",
-      "status": "CANCELLED",
-      "missing_runs": 2
     }
   }
 }
