@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T13:10:54.534769-05:00",
+  "updated": "2026-11-01T17:31:46.399511-05:00",
   "events": {
     "6d05ac306587862c61610eb6b9e3@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -143,19 +143,6 @@
       "description": "Opening",
       "status": "CONFIRMED",
       "missing_runs": 0
-    },
-    "d9933ab7b95b9e182b335ad27787@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "12921-2026-10-31T14:00:00-04:00",
-      "title": "Atelier: The World of Shapes de Jeanie Riddle",
-      "start": "2026-10-31T14:00:00-04:00",
-      "end": null,
-      "venue": "Livart",
-      "address": "3980, rue Saint-Denis, Montréal, H2W 2M2",
-      "url": "https://reseauartactuel.org/evenement/the-world-of-shapes-de-ie-riddle/",
-      "description": "Vernissage le jeudi 24 septembre à 18h",
-      "status": "CANCELLED",
-      "missing_runs": 2
     }
   }
 }
