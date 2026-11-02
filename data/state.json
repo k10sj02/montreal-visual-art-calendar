@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T17:31:46.399511-05:00",
+  "updated": "2026-11-02T01:57:42.960892-05:00",
   "events": {
     "6d05ac306587862c61610eb6b9e3@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -50,32 +50,6 @@
       "address": "350, avenue Victoria, Montréal, H3Z 2N4",
       "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
       "description": "Vernisssage le jeudi 22 octotbre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "cbdec72e0ff727ca03c9b44b5abe@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "architecture-playtime-2026-11-01T11:00:00-05:00",
-      "title": "Architecture Playtime",
-      "start": "2026-11-01T11:00:00-05:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/103108/architecture-playtime",
-      "description": "Young Public",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "5bcf192bec37bc7432d7d27413a8@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "exhibition-tours-on-the-first-sunday-of-the-month-2026-11-01T13:00:00-05:00",
-      "title": "Exhibition tours on the first Sunday of the month",
-      "start": "2026-11-01T13:00:00-05:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/103508/exhibition-tours-on-the-first-sunday-of-the-month",
-      "description": "Guided tour",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -143,6 +117,32 @@
       "description": "Opening",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "cbdec72e0ff727ca03c9b44b5abe@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "architecture-playtime-2026-11-01T11:00:00-05:00",
+      "title": "Architecture Playtime",
+      "start": "2026-11-01T11:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/103108/architecture-playtime",
+      "description": "Young Public",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "5bcf192bec37bc7432d7d27413a8@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "exhibition-tours-on-the-first-sunday-of-the-month-2026-11-01T13:00:00-05:00",
+      "title": "Exhibition tours on the first Sunday of the month",
+      "start": "2026-11-01T13:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/103508/exhibition-tours-on-the-first-sunday-of-the-month",
+      "description": "Guided tour",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
