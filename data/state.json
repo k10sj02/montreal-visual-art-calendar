@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T02:22:13.558091-05:00",
+  "updated": "2026-11-03T14:53:00.583064-05:00",
   "events": {
     "181324d2a8cf8311f5483183e473@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "13893-2026-11-07T15:00:00-05:00",
-      "title": "Vernissage: Damnatio memoriae de 𝗠𝗮𝗿𝗶𝗮 𝗖𝗵𝗲𝗸𝗵𝗮𝗻𝗼𝘃𝗶𝗰𝗵 𝗡𝗲𝗿𝘀𝘀𝗲𝘀𝗶𝗮𝗻",
+      "title": "Vernissage: Maria Chekhanovich Nerssesian et Aïda Vosoughi",
       "start": "2026-11-07T15:00:00-05:00",
       "end": null,
       "venue": "OPTICA",
@@ -23,7 +23,7 @@
       "venue": "CLARK",
       "address": "5455, ave de Gaspé, suite 114, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/utong-lin-et-al-camille-zoe-valcourt-synnott-agathe-weil/",
-      "description": "Vernissage le vendredi 5 novembre à 18h",
+      "description": "Vernissage le jeudi 5 novembre à 18h",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -180,6 +180,19 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/105989/states-of-emergency-with-leopold-lambert",
       "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3d9f055a358cfc32b384c9845241@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "who-makes-the-city-2026-11-19T18:00:00-05:00",
+      "title": "Who Makes the City?",
+      "start": "2026-11-19T18:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106329/who-makes-the-city",
+      "description": "Talk",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
