@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T14:53:00.583064-05:00",
+  "updated": "2026-11-04T02:03:57.207766-05:00",
   "events": {
     "181324d2a8cf8311f5483183e473@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -258,6 +258,19 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/105966/opening-building-material-cultures-reengaging-senegalese-craft-based-building-traditions",
       "description": "Opening",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "09e65fde82a7d32693e5d81e99d3@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "book-launch-les-modernites-senegalaises-imaginees-par-lecole-darchitecture-et-durbanisme-de-dakar-2026-11-21T10:00:00-05:00",
+      "title": "Book launch: Les modernités sénégalaises imaginées par l’École d’Architecture et d’Urbanisme de Dakar",
+      "start": "2026-11-21T10:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106334/book-launch-les-modernites-senegalaises-imaginees-par-lecole-darchitecture-et-durbanisme-de-dakar",
+      "description": "Launch",
       "status": "CONFIRMED",
       "missing_runs": 0
     }
