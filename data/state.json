@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T02:29:27.260590-05:00",
+  "updated": "2026-11-06T14:45:09.615544-05:00",
   "events": {
     "181324d2a8cf8311f5483183e473@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -167,8 +167,8 @@
       "address": "5455, ave de Gaspé, suite 114, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/utong-lin-et-al-camille-zoe-valcourt-synnott-agathe-weil/",
       "description": "Vernissage le jeudi 5 novembre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "dbf2660527b721583273b18cc8d3@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -180,8 +180,8 @@
       "address": "372, rue Sainte-Catherine Ouest #426, Montréal, H3B 1A2",
       "url": "https://reseauartactuel.org/evenement/poli-wilhelm-et-marie-claude-robillard/",
       "description": "Vernissage le jeudi 5 novembre à 17h30",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "e34de907dc1f9a339a53a2867041@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -193,8 +193,8 @@
       "address": "372, rue Sainte-Catherine Ouest, espace 403, Montréal, H3B 1A2",
       "url": "https://reseauartactuel.org/evenement/13870/",
       "description": "Vernissage le jeudi 5 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "320d219f9751ef5bc6008a203566@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -206,8 +206,8 @@
       "address": "5445, ave de Gaspé, espace 105, Montréal, H2T 3B2",
       "url": "https://reseauartactuel.org/evenement/recode-dalexey-lazarev/",
       "description": "Vernissage le jeudi 5 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6d05ac306587862c61610eb6b9e3@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -219,8 +219,8 @@
       "address": "108-5455, ave De Gaspé, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/13835/",
       "description": "Vernissage le jeudi 5 novembre à 17h à Occurrence",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "3fb240cf672604cf1249fef1f9ec@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -232,8 +232,8 @@
       "address": "608-5445, ave de Gaspé, Montréal, H2T 3B2",
       "url": "https://reseauartactuel.org/evenement/expositions-en-vitrine-2026-2029/",
       "description": "Vernissage le jeudi 5 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "00ddb2988160b42997668d21feb4@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -245,8 +245,8 @@
       "address": "608-5445, ave de Gaspé, Montréal, H2T 3B2",
       "url": "https://reseauartactuel.org/evenement/expositions-en-vitrine-2026-2029/",
       "description": "Vernissage le jeudi 5 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "155fbcb5c8b12d0d23c71a30e99b@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -258,8 +258,8 @@
       "address": "444-372, rue Ste-Catherine Ouest, Montréal, H3B 1A2",
       "url": "https://reseauartactuel.org/evenement/excavation-et-ablution-de-janeva-l-fauve/",
       "description": "Vernissage jeudi le 5 novembre à 17h30",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8c1cc9008f5622f6320acbbbb8a9@montreal-visual-art": {
       "source": "cca",
@@ -271,8 +271,8 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/106182/home-finding",
       "description": "Talk",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
