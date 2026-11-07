@@ -7,141 +7,9 @@ X-WR-CALNAME:Montréal Visual Art & Vernissages
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-SUMMARY:Vernissage: Brendan Flanagan et Natasha Rock
-DTSTART;TZID=America/Toronto:20261105T170000
-DTSTAMP:20261106T194509Z
-UID:e34de907dc1f9a339a53a2867041@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 5 novembre à 17h\nOriginal listing: htt
- ps://reseauartactuel.org/evenement/13870/
-LOCATION: Galerie B-312\, 372\, rue Sainte-Catherine Ouest\, espace 403\, 
- Montréal\, H3B 1A2
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/13870/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: Evridiki Spiliad et Catherine Beaudette
-DTSTART;TZID=America/Toronto:20261105T170000
-DTSTAMP:20261106T194509Z
-UID:6d05ac306587862c61610eb6b9e3@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 5 novembre à 17h à Occurrence\nOriginal 
- listing: https://reseauartactuel.org/evenement/13835/
-LOCATION:Occurrence\, 108-5455\, ave De Gaspé\, Montréal\, H2T 3B3
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/13835/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: L’archéosténographe de Véronique Béland et Julie
-  Hétu
-DTSTART;TZID=America/Toronto:20261105T170000
-DTSTAMP:20261106T194509Z
-UID:3fb240cf672604cf1249fef1f9ec@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 5 novembre à 17h\nOriginal listing: https
- ://reseauartactuel.org/evenement/expositions-en-vitrine-2026-2029/
-LOCATION:TOPO\, 608-5445\, ave de Gaspé\, Montréal\, H2T 3B2
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/expositions-en-vitrine-2026-2029
- /
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: reCode d’Alexey Lazarev
-DTSTART;TZID=America/Toronto:20261105T170000
-DTSTAMP:20261106T194509Z
-UID:320d219f9751ef5bc6008a203566@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 5 novembre à 17h\nOriginal listing: ht
- tps://reseauartactuel.org/evenement/recode-dalexey-lazarev/
-LOCATION:Atelier Circulaire\, 5445\, ave de Gaspé\, espace 105\, Montréa
- l\, H2T 3B2
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/recode-dalexey-lazarev/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: Excavation et ablution de Janeva L. Fauve
-DTSTART;TZID=America/Toronto:20261105T173000
-DTSTAMP:20261106T194509Z
-UID:155fbcb5c8b12d0d23c71a30e99b@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage jeudi le 5 novembre à 17h30\nOriginal listing: htt
- ps://reseauartactuel.org/evenement/excavation-et-ablution-de-janeva-l-fauv
- e/
-LOCATION:CIRCA art actuel\, 444-372\, rue Ste-Catherine Ouest\, Montréal
- \, H3B 1A2
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/excavation-et-ablution-de-janeva
- -l-fauve/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: Poli Wilhelm et Marie-Claude Robillard
-DTSTART;TZID=America/Toronto:20261105T173000
-DTSTAMP:20261106T194509Z
-UID:dbf2660527b721583273b18cc8d3@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 5 novembre à 17h30\nOriginal listing: htt
- ps://reseauartactuel.org/evenement/poli-wilhelm-et-marie-claude-robillard/
-LOCATION:Arprim\, 372\, rue Sainte-Catherine Ouest #426\, Montréal\, H3B 
- 1A2
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/poli-wilhelm-et-marie-claude-rob
- illard/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Home Finding
-DTSTART;TZID=America/Toronto:20261105T180000
-DTSTAMP:20261106T194509Z
-UID:8c1cc9008f5622f6320acbbbb8a9@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/106182
- /home-finding
-LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
- C H3H 2S6
-STATUS:CANCELLED
-URL:https://www.cca.qc.ca/en/events/106182/home-finding
-X-MONTREAL-VISUAL-ART-SOURCE:cca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: L’archéosténographe de Véronique Béland et Julie
-  Hétu
-DTSTART;TZID=America/Toronto:20261105T180000
-DTSTAMP:20261106T194509Z
-UID:00ddb2988160b42997668d21feb4@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 5 novembre à 17h\nOriginal listing: https
- ://reseauartactuel.org/evenement/expositions-en-vitrine-2026-2029/
-LOCATION:TOPO\, 608-5445\, ave de Gaspé\, Montréal\, H2T 3B2
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/expositions-en-vitrine-2026-2029
- /
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: Yutong Lin (et al.) + Camille-Zoé Valcourt-Synnott + 
- Agathe Weil
-DTSTART;TZID=America/Toronto:20261105T180000
-DTSTAMP:20261106T194509Z
-UID:f5b0ba09c61b337bde7bc786f3a0@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 5 novembre à 18h\nOriginal listing: https
- ://reseauartactuel.org/evenement/utong-lin-et-al-camille-zoe-valcourt-synn
- ott-agathe-weil/
-LOCATION:CLARK\, 5455\, ave de Gaspé\, suite 114\, Montréal\, H2T 3B3
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/utong-lin-et-al-camille-zoe-valc
- ourt-synnott-agathe-weil/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Designing Sovereignty: Pathways of Indigenous Design Thinking
 DTSTART;TZID=America/Toronto:20261107T140000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:995e3dafb828bc1944a43d182052@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106193/desig
@@ -156,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Maria Chekhanovich Nerssesian et Aïda Vosoughi
 DTSTART;TZID=America/Toronto:20261107T150000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:181324d2a8cf8311f5483183e473@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le samedi 7 novembre à 15h\nOriginal listing: http
@@ -175,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:With an Acre—An Afternoon with the CCA at e-flux Screening Room
 DTSTART;TZID=America/Toronto:20261107T150000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:1a211322c9ed2d330bc1bfcd6ff9@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106311/with-
@@ -190,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:States of Emergency with Leopold Lambert
 DTSTART;TZID=America/Toronto:20261112T180000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:f426fcef9b78a8a8f713200614c8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105989/state
@@ -205,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who Makes the City?
 DTSTART;TZID=America/Toronto:20261119T180000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:3d9f055a358cfc32b384c9845241@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/106329
@@ -220,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Opening: Building Material Cultures: Reengaging Senegalese Craft-B
  ased Building Traditions
 DTSTART;TZID=America/Toronto:20261120T160000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Opening\nOriginal listing: https://www.cca.qc.ca/en/events/105
@@ -237,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Book launch: Les modernités sénégalaises imaginées par l’Éc
  ole d’Architecture et d’Urbanisme de Dakar
 DTSTART;TZID=America/Toronto:20261121T100000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:09e65fde82a7d32693e5d81e99d3@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Launch\nOriginal listing: https://www.cca.qc.ca/en/events/1063
@@ -253,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Border Tuner with Rafael Lozano-Hemmer
 DTSTART;TZID=America/Toronto:20261126T180000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:0f4c5660cc5979563f5c7ce18d18@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Book launch\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -268,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T103000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:7f4fed6da09c9be40cf729f5c358@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -282,7 +150,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Table ronde: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:d90faca674e0d7c10c4da8ddfa27@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -296,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Architecture Playtime
 DTSTART;TZID=America/Toronto:20261206T110000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:9fef08508dd7d05f9d0e9e2d4bcc@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
@@ -310,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition tours on the first Sunday of the month
 DTSTART;TZID=America/Toronto:20261206T130000
-DTSTAMP:20261106T194509Z
+DTSTAMP:20261107T064213Z
 UID:0716ad5c51deb8c6ca4f5efd7960@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
