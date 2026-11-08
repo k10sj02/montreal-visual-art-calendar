@@ -1,19 +1,6 @@
 {
-  "updated": "2026-11-07T17:24:53.709584-05:00",
+  "updated": "2026-11-08T01:48:16.581139-05:00",
   "events": {
-    "181324d2a8cf8311f5483183e473@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "13893-2026-11-07T15:00:00-05:00",
-      "title": "Vernissage: Maria Chekhanovich Nerssesian et Aïda Vosoughi",
-      "start": "2026-11-07T15:00:00-05:00",
-      "end": null,
-      "venue": "OPTICA",
-      "address": "5445, ave De Gaspé, local 106, Montréal, H2T 3B2",
-      "url": "https://reseauartactuel.org/evenement/damnatio-memoriae-de-%f0%9d%97%a0%f0%9d%97%ae%f0%9d%97%bf%f0%9d%97%b6%f0%9d%97%ae-%f0%9d%97%96%f0%9d%97%b5%f0%9d%97%b2%f0%9d%97%b8%f0%9d%97%b5%f0%9d%97%ae%f0%9d%97%bb%f0%9d%97%bc%f0%9d%98%83/",
-      "description": "Vernissage le samedi 7 novembre à 15h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "13494-2026-11-28T10:30:00-05:00",
@@ -37,19 +24,6 @@
       "address": "350, avenue Victoria, Montréal, H3Z 2N4",
       "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
       "description": "Vernisssage le jeudi 22 octotbre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "995e3dafb828bc1944a43d182052@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "designing-sovereignty-pathways-of-indigenous-design-thinking-2026-11-07T14:00:00-05:00",
-      "title": "Designing Sovereignty: Pathways of Indigenous Design Thinking",
-      "start": "2026-11-07T14:00:00-05:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/106193/designing-sovereignty-pathways-of-indigenous-design-thinking",
-      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -118,19 +92,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "1a211322c9ed2d330bc1bfcd6ff9@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "with-an-acrean-afternoon-with-the-cca-at-e-flux-screening-room-2026-11-07T15:00:00-05:00",
-      "title": "With an Acre—An Afternoon with the CCA at e-flux Screening Room",
-      "start": "2026-11-07T15:00:00-05:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/106311/with-an-acrean-afternoon-with-the-cca-at-e-flux-screening-room",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art": {
       "source": "cca",
       "source_id": "opening-building-material-cultures-reengaging-senegalese-craft-based-building-traditions-2026-11-20T16:00:00-05:00",
@@ -156,6 +117,45 @@
       "description": "Launch",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "181324d2a8cf8311f5483183e473@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "13893-2026-11-07T15:00:00-05:00",
+      "title": "Vernissage: Maria Chekhanovich Nerssesian et Aïda Vosoughi",
+      "start": "2026-11-07T15:00:00-05:00",
+      "end": null,
+      "venue": "OPTICA",
+      "address": "5445, ave De Gaspé, local 106, Montréal, H2T 3B2",
+      "url": "https://reseauartactuel.org/evenement/damnatio-memoriae-de-%f0%9d%97%a0%f0%9d%97%ae%f0%9d%97%bf%f0%9d%97%b6%f0%9d%97%ae-%f0%9d%97%96%f0%9d%97%b5%f0%9d%97%b2%f0%9d%97%b8%f0%9d%97%b5%f0%9d%97%ae%f0%9d%97%bb%f0%9d%97%bc%f0%9d%98%83/",
+      "description": "Vernissage le samedi 7 novembre à 15h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "995e3dafb828bc1944a43d182052@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "designing-sovereignty-pathways-of-indigenous-design-thinking-2026-11-07T14:00:00-05:00",
+      "title": "Designing Sovereignty: Pathways of Indigenous Design Thinking",
+      "start": "2026-11-07T14:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106193/designing-sovereignty-pathways-of-indigenous-design-thinking",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "1a211322c9ed2d330bc1bfcd6ff9@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "with-an-acrean-afternoon-with-the-cca-at-e-flux-screening-room-2026-11-07T15:00:00-05:00",
+      "title": "With an Acre—An Afternoon with the CCA at e-flux Screening Room",
+      "start": "2026-11-07T15:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106311/with-an-acrean-afternoon-with-the-cca-at-e-flux-screening-room",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
