@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T01:48:16.581139-05:00",
+  "updated": "2026-11-08T08:57:31.604293-05:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -128,8 +128,8 @@
       "address": "5445, ave De Gaspé, local 106, Montréal, H2T 3B2",
       "url": "https://reseauartactuel.org/evenement/damnatio-memoriae-de-%f0%9d%97%a0%f0%9d%97%ae%f0%9d%97%bf%f0%9d%97%b6%f0%9d%97%ae-%f0%9d%97%96%f0%9d%97%b5%f0%9d%97%b2%f0%9d%97%b8%f0%9d%97%b5%f0%9d%97%ae%f0%9d%97%bb%f0%9d%97%bc%f0%9d%98%83/",
       "description": "Vernissage le samedi 7 novembre à 15h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "995e3dafb828bc1944a43d182052@montreal-visual-art": {
       "source": "cca",
@@ -141,8 +141,8 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/106193/designing-sovereignty-pathways-of-indigenous-design-thinking",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1a211322c9ed2d330bc1bfcd6ff9@montreal-visual-art": {
       "source": "cca",
@@ -154,8 +154,8 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/106311/with-an-acrean-afternoon-with-the-cca-at-e-flux-screening-room",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
