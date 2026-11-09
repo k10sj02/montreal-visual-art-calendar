@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-09T02:22:38.291371-05:00",
+  "updated": "2026-11-09T17:46:52.841806-05:00",
   "events": {
+    "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14030-2026-12-12T17:00:00-05:00",
+      "title": "Vernissage: Achète de l’art",
+      "start": "2026-12-12T17:00:00-05:00",
+      "end": null,
+      "venue": "Diagonale",
+      "address": "5455, ave de Gaspé, Espace 110, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/14030/",
+      "description": "Vernissage le jeudi 12 décembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "13494-2026-11-28T10:30:00-05:00",
