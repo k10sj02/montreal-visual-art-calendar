@@ -1,16 +1,29 @@
 {
-  "updated": "2026-11-10T02:52:00.906835-05:00",
+  "updated": "2026-11-10T15:05:30.370058-05:00",
   "events": {
-    "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
+    "c22e71a6e93bb375a271d4d3a5a5@montreal-visual-art": {
       "source": "reseau-art-actuel",
-      "source_id": "14030-2026-12-12T17:00:00-05:00",
+      "source_id": "14051-2026-11-11T17:00:00-05:00",
+      "title": "Vernissage: Ce qui reste après le feu",
+      "start": "2026-11-11T17:00:00-05:00",
+      "end": null,
+      "venue": "Atelier La Coulée",
+      "address": "205-1900, rue Le Ber, Montréal, H3K 2A4",
+      "url": "https://reseauartactuel.org/evenement/ce-qui-reste-apres-le-feu/",
+      "description": "Vernissage le mercredi 11 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7847c01cda1242e799f43b34d993@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14030-2026-11-12T17:00:00-05:00",
       "title": "Vernissage: Achète de l’art",
-      "start": "2026-12-12T17:00:00-05:00",
+      "start": "2026-11-12T17:00:00-05:00",
       "end": null,
       "venue": "Diagonale",
       "address": "5455, ave de Gaspé, Espace 110, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/14030/",
-      "description": "Vernissage le jeudi 12 décembre à 17h",
+      "description": "Vernissage le jeudi 12 novembre à 17h",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -130,6 +143,19 @@
       "description": "Launch",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14030-2026-12-12T17:00:00-05:00",
+      "title": "Vernissage: Achète de l’art",
+      "start": "2026-12-12T17:00:00-05:00",
+      "end": null,
+      "venue": "Diagonale",
+      "address": "5455, ave de Gaspé, Espace 110, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/14030/",
+      "description": "Vernissage le jeudi 12 décembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
