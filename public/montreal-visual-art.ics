@@ -9,7 +9,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 SUMMARY:Vernissage: Ce qui reste après le feu
 DTSTART;TZID=America/Toronto:20261111T170000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:c22e71a6e93bb375a271d4d3a5a5@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le mercredi 11 novembre à 17h\nOriginal listing: 
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Achète de l’art
 DTSTART;TZID=America/Toronto:20261112T170000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:7847c01cda1242e799f43b34d993@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 12 novembre à 17h\nOriginal listing: http
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:States of Emergency with Leopold Lambert
 DTSTART;TZID=America/Toronto:20261112T180000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:f426fcef9b78a8a8f713200614c8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/105989/state
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who Makes the City?
 DTSTART;TZID=America/Toronto:20261119T180000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:3d9f055a358cfc32b384c9845241@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/106329
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Opening: Building Material Cultures: Reengaging Senegalese Craft-B
  ased Building Traditions
 DTSTART;TZID=America/Toronto:20261120T160000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Opening\nOriginal listing: https://www.cca.qc.ca/en/events/105
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Book launch: Les modernités sénégalaises imaginées par l’Éc
  ole d’Architecture et d’Urbanisme de Dakar
 DTSTART;TZID=America/Toronto:20261121T100000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:09e65fde82a7d32693e5d81e99d3@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Launch\nOriginal listing: https://www.cca.qc.ca/en/events/1063
@@ -99,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Border Tuner with Rafael Lozano-Hemmer
 DTSTART;TZID=America/Toronto:20261126T180000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:0f4c5660cc5979563f5c7ce18d18@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Book launch\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -114,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T103000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:7f4fed6da09c9be40cf729f5c358@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -126,9 +126,24 @@ URL:https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-so
 X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Distance Between Us and the Ground: To Take Measure
+DTSTART;TZID=America/Toronto:20261128T130000
+DTSTAMP:20261111T195457Z
+UID:365e7bcc3af533448e67a6681058@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Workshop\nOriginal listing: https://www.cca.qc.ca/en/events/10
+ 6428/the-distance-between-us-and-the-ground-to-take-measure
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/106428/the-distance-between-us-and-the
+ -ground-to-take-measure
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Table ronde: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:d90faca674e0d7c10c4da8ddfa27@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -140,9 +155,24 @@ URL:https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-so
 X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Distance Between Us and the Ground: To Hold the Distance
+DTSTART;TZID=America/Toronto:20261129T140000
+DTSTAMP:20261111T195457Z
+UID:95eade50e9683320a51a043959ff@montreal-visual-art
+CATEGORIES:Visual Art\,Vernissage\,Gallery
+DESCRIPTION:Screening\nOriginal listing: https://www.cca.qc.ca/en/events/1
+ 06433/the-distance-between-us-and-the-ground-to-hold-the-distance
+LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
+ C H3H 2S6
+STATUS:CONFIRMED
+URL:https://www.cca.qc.ca/en/events/106433/the-distance-between-us-and-the
+ -ground-to-hold-the-distance
+X-MONTREAL-VISUAL-ART-SOURCE:cca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Architecture Playtime
 DTSTART;TZID=America/Toronto:20261206T110000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:9fef08508dd7d05f9d0e9e2d4bcc@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
@@ -156,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition tours on the first Sunday of the month
 DTSTART;TZID=America/Toronto:20261206T130000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:0716ad5c51deb8c6ca4f5efd7960@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -171,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Achète de l’art
 DTSTART;TZID=America/Toronto:20261212T170000
-DTSTAMP:20261111T072007Z
+DTSTAMP:20261111T195457Z
 UID:59a3e07e8f96d972518b9ee6b48d@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 12 décembre à 17h\nOriginal listing: htt

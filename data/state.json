@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T02:20:07.062461-05:00",
+  "updated": "2026-11-11T14:54:57.385194-05:00",
   "events": {
     "c22e71a6e93bb375a271d4d3a5a5@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -92,6 +92,32 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "365e7bcc3af533448e67a6681058@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "the-distance-between-us-and-the-ground-to-take-measure-2026-11-28T13:00:00-05:00",
+      "title": "The Distance Between Us and the Ground: To Take Measure",
+      "start": "2026-11-28T13:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106428/the-distance-between-us-and-the-ground-to-take-measure",
+      "description": "Workshop",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "95eade50e9683320a51a043959ff@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "the-distance-between-us-and-the-ground-to-hold-the-distance-2026-11-29T14:00:00-05:00",
+      "title": "The Distance Between Us and the Ground: To Hold the Distance",
+      "start": "2026-11-29T14:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106433/the-distance-between-us-and-the-ground-to-hold-the-distance",
+      "description": "Screening",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "9fef08508dd7d05f9d0e9e2d4bcc@montreal-visual-art": {
       "source": "cca",
       "source_id": "architecture-playtime-2026-12-06T11:00:00-05:00",
@@ -155,7 +181,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     }
   }
 }
