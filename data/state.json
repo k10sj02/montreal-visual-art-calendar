@@ -1,19 +1,6 @@
 {
-  "updated": "2026-11-11T14:54:57.385194-05:00",
+  "updated": "2026-11-12T02:50:47.851744-05:00",
   "events": {
-    "c22e71a6e93bb375a271d4d3a5a5@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "14051-2026-11-11T17:00:00-05:00",
-      "title": "Vernissage: Ce qui reste après le feu",
-      "start": "2026-11-11T17:00:00-05:00",
-      "end": null,
-      "venue": "Atelier La Coulée",
-      "address": "205-1900, rue Le Ber, Montréal, H3K 2A4",
-      "url": "https://reseauartactuel.org/evenement/ce-qui-reste-apres-le-feu/",
-      "description": "Vernissage le mercredi 11 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "7847c01cda1242e799f43b34d993@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14030-2026-11-12T17:00:00-05:00",
@@ -170,6 +157,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "c22e71a6e93bb375a271d4d3a5a5@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14051-2026-11-11T17:00:00-05:00",
+      "title": "Vernissage: Ce qui reste après le feu",
+      "start": "2026-11-11T17:00:00-05:00",
+      "end": null,
+      "venue": "Atelier La Coulée",
+      "address": "205-1900, rue Le Ber, Montréal, H3K 2A4",
+      "url": "https://reseauartactuel.org/evenement/ce-qui-reste-apres-le-feu/",
+      "description": "Vernissage le mercredi 11 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14030-2026-12-12T17:00:00-05:00",
@@ -181,7 +181,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     }
   }
 }
