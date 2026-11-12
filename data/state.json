@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T02:50:47.851744-05:00",
+  "updated": "2026-11-12T15:32:21.178803-05:00",
   "events": {
     "7847c01cda1242e799f43b34d993@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -167,8 +167,8 @@
       "address": "205-1900, rue Le Ber, Montréal, H3K 2A4",
       "url": "https://reseauartactuel.org/evenement/ce-qui-reste-apres-le-feu/",
       "description": "Vernissage le mercredi 11 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -181,7 +181,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     }
   }
 }
