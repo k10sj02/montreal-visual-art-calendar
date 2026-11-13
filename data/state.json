@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T02:28:07.212558-05:00",
+  "updated": "2026-11-13T15:08:41.069392-05:00",
   "events": {
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -141,8 +141,8 @@
       "address": "5455, ave de Gaspé, Espace 110, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f426fcef9b78a8a8f713200614c8@montreal-visual-art": {
       "source": "cca",
@@ -154,8 +154,8 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/105989/states-of-emergency-with-leopold-lambert",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -168,7 +168,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     }
   }
 }
