@@ -1,19 +1,6 @@
 {
-  "updated": "2026-11-12T15:32:21.178803-05:00",
+  "updated": "2026-11-13T02:28:07.212558-05:00",
   "events": {
-    "7847c01cda1242e799f43b34d993@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "14030-2026-11-12T17:00:00-05:00",
-      "title": "Vernissage: Achète de l’art",
-      "start": "2026-11-12T17:00:00-05:00",
-      "end": null,
-      "venue": "Diagonale",
-      "address": "5455, ave de Gaspé, Espace 110, Montréal, H2T 3B3",
-      "url": "https://reseauartactuel.org/evenement/14030/",
-      "description": "Vernissage le jeudi 12 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "13494-2026-11-28T10:30:00-05:00",
@@ -37,19 +24,6 @@
       "address": "350, avenue Victoria, Montréal, H3Z 2N4",
       "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
       "description": "Vernisssage le jeudi 22 octotbre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f426fcef9b78a8a8f713200614c8@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "states-of-emergency-with-leopold-lambert-2026-11-12T18:00:00-05:00",
-      "title": "States of Emergency with Leopold Lambert",
-      "start": "2026-11-12T18:00:00-05:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/105989/states-of-emergency-with-leopold-lambert",
-      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -157,18 +131,31 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "c22e71a6e93bb375a271d4d3a5a5@montreal-visual-art": {
+    "7847c01cda1242e799f43b34d993@montreal-visual-art": {
       "source": "reseau-art-actuel",
-      "source_id": "14051-2026-11-11T17:00:00-05:00",
-      "title": "Vernissage: Ce qui reste après le feu",
-      "start": "2026-11-11T17:00:00-05:00",
+      "source_id": "14030-2026-11-12T17:00:00-05:00",
+      "title": "Vernissage: Achète de l’art",
+      "start": "2026-11-12T17:00:00-05:00",
       "end": null,
-      "venue": "Atelier La Coulée",
-      "address": "205-1900, rue Le Ber, Montréal, H3K 2A4",
-      "url": "https://reseauartactuel.org/evenement/ce-qui-reste-apres-le-feu/",
-      "description": "Vernissage le mercredi 11 novembre à 17h",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "venue": "Diagonale",
+      "address": "5455, ave de Gaspé, Espace 110, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/14030/",
+      "description": "Vernissage le jeudi 12 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "f426fcef9b78a8a8f713200614c8@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "states-of-emergency-with-leopold-lambert-2026-11-12T18:00:00-05:00",
+      "title": "States of Emergency with Leopold Lambert",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/105989/states-of-emergency-with-leopold-lambert",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -181,7 +168,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 5
+      "missing_runs": 6
     }
   }
 }
