@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-13T15:08:41.069392-05:00",
+  "updated": "2026-11-14T02:08:36.844792-05:00",
   "events": {
+    "d1050d6e739011e1847e0b678c91@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14216-2026-11-19T17:00:00-05:00",
+      "title": "Vernissage: Rhythm of Numbers de Lisa Lipton",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": null,
+      "venue": "Dazibao",
+      "address": "5455, ave de Gaspé, espace 109, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/rhythm-of-numbers-de-lisa-lipton/",
+      "description": "Vernissage le jeudi 19 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "13494-2026-11-28T10:30:00-05:00",
@@ -131,32 +144,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "7847c01cda1242e799f43b34d993@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "14030-2026-11-12T17:00:00-05:00",
-      "title": "Vernissage: Achète de l’art",
-      "start": "2026-11-12T17:00:00-05:00",
-      "end": null,
-      "venue": "Diagonale",
-      "address": "5455, ave de Gaspé, Espace 110, Montréal, H2T 3B3",
-      "url": "https://reseauartactuel.org/evenement/14030/",
-      "description": "Vernissage le jeudi 12 novembre à 17h",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "f426fcef9b78a8a8f713200614c8@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "states-of-emergency-with-leopold-lambert-2026-11-12T18:00:00-05:00",
-      "title": "States of Emergency with Leopold Lambert",
-      "start": "2026-11-12T18:00:00-05:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/105989/states-of-emergency-with-leopold-lambert",
-      "description": "",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14030-2026-12-12T17:00:00-05:00",
@@ -168,7 +155,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     }
   }
 }
