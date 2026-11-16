@@ -1,6 +1,45 @@
 {
-  "updated": "2026-11-16T02:27:01.284617-05:00",
+  "updated": "2026-11-16T17:37:07.846548-05:00",
   "events": {
+    "de313b24e04ab280d4ebb20c45d1@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14260-2026-11-19T17:00:00-05:00",
+      "title": "Vernissage: Murmure encore de Muriel Ahmarani Jaouich",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": null,
+      "venue": "Maison de la culture du Plateau-Mont-Royal",
+      "address": "465, avenue Mont-Royal Est, Montréal, H2J 1W3",
+      "url": "https://reseauartactuel.org/evenement/murmure-encore-de-muriel-ahmarani-jaouich/",
+      "description": "Vernissage le jeudi 19 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "eb0a2ec0de92cee38baa83b8bf31@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14236-2026-11-19T17:00:00-05:00",
+      "title": "Vernissage: Le théâtre imaginaire de Ouled Saïd de Sfiya",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": null,
+      "venue": "Maison de la culture Notre-Dame-de-Grâce - Monkland",
+      "address": "6400, ave de Monkland, Montréal, H4B 1H3",
+      "url": "https://reseauartactuel.org/evenement/le-theatre-imaginaire-de-ouled-said-de-sfiya/",
+      "description": "Vernissage le jeudi 19 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "0454b5d793ab411f93f1f733410f@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14227-2026-11-19T17:00:00-05:00",
+      "title": "Vernissage: Nothing to Declare de Miko Revereza",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": null,
+      "venue": "Dazibao",
+      "address": "5455, ave de Gaspé, espace 109, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/nothing-to-declare-de-miko-revereza/",
+      "description": "Vernissage le jeudi 19 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "d1050d6e739011e1847e0b678c91@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14216-2026-11-19T17:00:00-05:00",
@@ -155,7 +194,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 13
+      "missing_runs": 14
     }
   }
 }
