@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-19T03:07:42.921359-05:00",
+  "updated": "2026-11-19T16:03:53.001279-05:00",
   "events": {
+    "169c32d856b2101b62b1d3d18070@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14324-2026-11-26T17:00:00-05:00",
+      "title": "Vernissage: D’amours et d’amitiés et Sulfure vif : documents de recherche",
+      "start": "2026-11-26T17:00:00-05:00",
+      "end": null,
+      "venue": "Galerie de l’Université de Montréal",
+      "address": "2940, ch. de la Côte-Ste-Catherine, salle 0056, Montréal, H3C 3J7",
+      "url": "https://reseauartactuel.org/evenement/damours-et-damities-et-sulfure-vif-documents-de-recherche/",
+      "description": "Vernissage le jeudi 26 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "99be3738d348dff3a12585455755@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14293-2026-11-20T17:00:00-05:00",
@@ -220,7 +233,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 19
+      "missing_runs": 20
     }
   }
 }
