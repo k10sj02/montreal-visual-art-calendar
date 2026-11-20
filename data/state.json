@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-19T16:03:53.001279-05:00",
+  "updated": "2026-11-20T02:52:32.651582-05:00",
   "events": {
+    "86c01f88f8bab86b8e8a549de22e@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14330-2026-11-28T14:00:00-05:00",
+      "title": "Rencontre: Catherine Beaudette et Evridiki Spiliadis",
+      "start": "2026-11-28T14:00:00-05:00",
+      "end": null,
+      "venue": "Occurrence",
+      "address": "108-5455, ave De Gaspé, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/catherine-beaudette-et-evridiki-spiliadis/",
+      "description": "Discussion à Occurrence",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "169c32d856b2101b62b1d3d18070@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14324-2026-11-26T17:00:00-05:00",
@@ -27,58 +40,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "de313b24e04ab280d4ebb20c45d1@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "14260-2026-11-19T17:00:00-05:00",
-      "title": "Vernissage: Murmure encore de Muriel Ahmarani Jaouich",
-      "start": "2026-11-19T17:00:00-05:00",
-      "end": null,
-      "venue": "Maison de la culture du Plateau-Mont-Royal",
-      "address": "465, avenue Mont-Royal Est, Montréal, H2J 1W3",
-      "url": "https://reseauartactuel.org/evenement/murmure-encore-de-muriel-ahmarani-jaouich/",
-      "description": "Vernissage le jeudi 19 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "eb0a2ec0de92cee38baa83b8bf31@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "14236-2026-11-19T17:00:00-05:00",
-      "title": "Vernissage: Le théâtre imaginaire de Ouled Saïd de Sfiya",
-      "start": "2026-11-19T17:00:00-05:00",
-      "end": null,
-      "venue": "Maison de la culture Notre-Dame-de-Grâce - Monkland",
-      "address": "6400, ave de Monkland, Montréal, H4B 1H3",
-      "url": "https://reseauartactuel.org/evenement/le-theatre-imaginaire-de-ouled-said-de-sfiya/",
-      "description": "Vernissage le jeudi 19 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "0454b5d793ab411f93f1f733410f@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "14227-2026-11-19T17:00:00-05:00",
-      "title": "Vernissage: Nothing to Declare de Miko Revereza",
-      "start": "2026-11-19T17:00:00-05:00",
-      "end": null,
-      "venue": "Dazibao",
-      "address": "5455, ave de Gaspé, espace 109, Montréal, H2T 3B3",
-      "url": "https://reseauartactuel.org/evenement/nothing-to-declare-de-miko-revereza/",
-      "description": "Vernissage le jeudi 19 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "d1050d6e739011e1847e0b678c91@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "14216-2026-11-19T17:00:00-05:00",
-      "title": "Vernissage: Rhythm of Numbers de Lisa Lipton",
-      "start": "2026-11-19T17:00:00-05:00",
-      "end": null,
-      "venue": "Dazibao",
-      "address": "5455, ave de Gaspé, espace 109, Montréal, H2T 3B3",
-      "url": "https://reseauartactuel.org/evenement/rhythm-of-numbers-de-lisa-lipton/",
-      "description": "Vernissage le jeudi 19 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "13494-2026-11-28T10:30:00-05:00",
@@ -102,19 +63,6 @@
       "address": "350, avenue Victoria, Montréal, H3Z 2N4",
       "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
       "description": "Vernisssage le jeudi 22 octotbre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "3d9f055a358cfc32b384c9845241@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "who-makes-the-city-2026-11-19T18:00:00-05:00",
-      "title": "Who Makes the City?",
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/106329/who-makes-the-city",
-      "description": "Talk",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -222,6 +170,71 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "de313b24e04ab280d4ebb20c45d1@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14260-2026-11-19T17:00:00-05:00",
+      "title": "Vernissage: Murmure encore de Muriel Ahmarani Jaouich",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": null,
+      "venue": "Maison de la culture du Plateau-Mont-Royal",
+      "address": "465, avenue Mont-Royal Est, Montréal, H2J 1W3",
+      "url": "https://reseauartactuel.org/evenement/murmure-encore-de-muriel-ahmarani-jaouich/",
+      "description": "Vernissage le jeudi 19 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "eb0a2ec0de92cee38baa83b8bf31@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14236-2026-11-19T17:00:00-05:00",
+      "title": "Vernissage: Le théâtre imaginaire de Ouled Saïd de Sfiya",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": null,
+      "venue": "Maison de la culture Notre-Dame-de-Grâce - Monkland",
+      "address": "6400, ave de Monkland, Montréal, H4B 1H3",
+      "url": "https://reseauartactuel.org/evenement/le-theatre-imaginaire-de-ouled-said-de-sfiya/",
+      "description": "Vernissage le jeudi 19 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "0454b5d793ab411f93f1f733410f@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14227-2026-11-19T17:00:00-05:00",
+      "title": "Vernissage: Nothing to Declare de Miko Revereza",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": null,
+      "venue": "Dazibao",
+      "address": "5455, ave de Gaspé, espace 109, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/nothing-to-declare-de-miko-revereza/",
+      "description": "Vernissage le jeudi 19 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "d1050d6e739011e1847e0b678c91@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14216-2026-11-19T17:00:00-05:00",
+      "title": "Vernissage: Rhythm of Numbers de Lisa Lipton",
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": null,
+      "venue": "Dazibao",
+      "address": "5455, ave de Gaspé, espace 109, Montréal, H2T 3B3",
+      "url": "https://reseauartactuel.org/evenement/rhythm-of-numbers-de-lisa-lipton/",
+      "description": "Vernissage le jeudi 19 novembre à 17h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "3d9f055a358cfc32b384c9845241@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "who-makes-the-city-2026-11-19T18:00:00-05:00",
+      "title": "Who Makes the City?",
+      "start": "2026-11-19T18:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106329/who-makes-the-city",
+      "description": "Talk",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14030-2026-12-12T17:00:00-05:00",
@@ -233,7 +246,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 20
+      "missing_runs": 21
     }
   }
 }
