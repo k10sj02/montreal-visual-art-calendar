@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:52:32.651582-05:00",
+  "updated": "2026-11-20T15:49:59.008855-05:00",
   "events": {
     "86c01f88f8bab86b8e8a549de22e@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -180,8 +180,8 @@
       "address": "465, avenue Mont-Royal Est, Montréal, H2J 1W3",
       "url": "https://reseauartactuel.org/evenement/murmure-encore-de-muriel-ahmarani-jaouich/",
       "description": "Vernissage le jeudi 19 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "eb0a2ec0de92cee38baa83b8bf31@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -193,8 +193,8 @@
       "address": "6400, ave de Monkland, Montréal, H4B 1H3",
       "url": "https://reseauartactuel.org/evenement/le-theatre-imaginaire-de-ouled-said-de-sfiya/",
       "description": "Vernissage le jeudi 19 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0454b5d793ab411f93f1f733410f@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -206,8 +206,8 @@
       "address": "5455, ave de Gaspé, espace 109, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/nothing-to-declare-de-miko-revereza/",
       "description": "Vernissage le jeudi 19 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d1050d6e739011e1847e0b678c91@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -219,8 +219,8 @@
       "address": "5455, ave de Gaspé, espace 109, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/rhythm-of-numbers-de-lisa-lipton/",
       "description": "Vernissage le jeudi 19 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "3d9f055a358cfc32b384c9845241@montreal-visual-art": {
       "source": "cca",
@@ -232,8 +232,8 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/106329/who-makes-the-city",
       "description": "Talk",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -246,7 +246,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 21
+      "missing_runs": 22
     }
   }
 }
