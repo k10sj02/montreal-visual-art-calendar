@@ -7,84 +7,10 @@ X-WR-CALNAME:Montréal Visual Art & Vernissages
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-SUMMARY:Vernissage: Le théâtre imaginaire de Ouled Saïd de Sfiya
-DTSTART;TZID=America/Toronto:20261119T170000
-DTSTAMP:20261120T204959Z
-UID:eb0a2ec0de92cee38baa83b8bf31@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 19 novembre à 17h\nOriginal listing: http
- s://reseauartactuel.org/evenement/le-theatre-imaginaire-de-ouled-said-de-s
- fiya/
-LOCATION:Maison de la culture Notre-Dame-de-Grâce - Monkland\, 6400\, ave
-  de Monkland\, Montréal\, H4B 1H3
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/le-theatre-imaginaire-de-ouled-s
- aid-de-sfiya/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: Murmure encore de Muriel Ahmarani Jaouich
-DTSTART;TZID=America/Toronto:20261119T170000
-DTSTAMP:20261120T204959Z
-UID:de313b24e04ab280d4ebb20c45d1@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 19 novembre à 17h\nOriginal listing: http
- s://reseauartactuel.org/evenement/murmure-encore-de-muriel-ahmarani-jaouic
- h/
-LOCATION:Maison de la culture du Plateau-Mont-Royal\, 465\, avenue Mont-Ro
- yal Est\, Montréal\, H2J 1W3
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/murmure-encore-de-muriel-ahmaran
- i-jaouich/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: Nothing to Declare de Miko Revereza
-DTSTART;TZID=America/Toronto:20261119T170000
-DTSTAMP:20261120T204959Z
-UID:0454b5d793ab411f93f1f733410f@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 19 novembre à 17h\nOriginal listing: http
- s://reseauartactuel.org/evenement/nothing-to-declare-de-miko-revereza/
-LOCATION:Dazibao\, 5455\, ave de Gaspé\, espace 109\, Montréal\, H2T 3B3
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/nothing-to-declare-de-miko-rever
- eza/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: Rhythm of Numbers de Lisa Lipton
-DTSTART;TZID=America/Toronto:20261119T170000
-DTSTAMP:20261120T204959Z
-UID:d1050d6e739011e1847e0b678c91@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le jeudi 19 novembre à 17h\nOriginal listing: http
- s://reseauartactuel.org/evenement/rhythm-of-numbers-de-lisa-lipton/
-LOCATION:Dazibao\, 5455\, ave de Gaspé\, espace 109\, Montréal\, H2T 3B3
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/rhythm-of-numbers-de-lisa-lipton
- /
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Makes the City?
-DTSTART;TZID=America/Toronto:20261119T180000
-DTSTAMP:20261120T204959Z
-UID:3d9f055a358cfc32b384c9845241@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Talk\nOriginal listing: https://www.cca.qc.ca/en/events/106329
- /who-makes-the-city
-LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
- C H3H 2S6
-STATUS:CANCELLED
-URL:https://www.cca.qc.ca/en/events/106329/who-makes-the-city
-X-MONTREAL-VISUAL-ART-SOURCE:cca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Opening: Building Material Cultures: Reengaging Senegalese Craft-B
  ased Building Traditions
 DTSTART;TZID=America/Toronto:20261120T160000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Opening\nOriginal listing: https://www.cca.qc.ca/en/events/105
@@ -100,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Plateformes de Karl Lemieux
 DTSTART;TZID=America/Toronto:20261120T170000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:99be3738d348dff3a12585455755@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le vendredi 20 novembre à 17h\nOriginal listing: h
@@ -114,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Book launch: Les modernités sénégalaises imaginées par l’Éc
  ole d’Architecture et d’Urbanisme de Dakar
 DTSTART;TZID=America/Toronto:20261121T100000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:09e65fde82a7d32693e5d81e99d3@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Launch\nOriginal listing: https://www.cca.qc.ca/en/events/1063
@@ -131,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Vernissage: D’amours et d’amitiés et Sulfure vif : documents 
  de recherche
 DTSTART;TZID=America/Toronto:20261126T170000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:169c32d856b2101b62b1d3d18070@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 26 novembre à 17h\nOriginal listing: http
@@ -147,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Border Tuner with Rafael Lozano-Hemmer
 DTSTART;TZID=America/Toronto:20261126T180000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:0f4c5660cc5979563f5c7ce18d18@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Book launch\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -162,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T103000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:7f4fed6da09c9be40cf729f5c358@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -176,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Distance Between Us and the Ground: To Take Measure
 DTSTART;TZID=America/Toronto:20261128T130000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:365e7bcc3af533448e67a6681058@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Workshop\nOriginal listing: https://www.cca.qc.ca/en/events/10
@@ -191,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rencontre: Catherine Beaudette et Evridiki Spiliadis
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:86c01f88f8bab86b8e8a549de22e@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Discussion à Occurrence\nOriginal listing: https://reseauarta
@@ -205,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Table ronde: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:d90faca674e0d7c10c4da8ddfa27@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -219,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Distance Between Us and the Ground: To Hold the Distance
 DTSTART;TZID=America/Toronto:20261129T140000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:95eade50e9683320a51a043959ff@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Screening\nOriginal listing: https://www.cca.qc.ca/en/events/1
@@ -234,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love and Longing in the Islamic Paradise Garden
 DTSTART;TZID=America/Toronto:20261204T140000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:344566ffa4688dbb4a38a04fb56c@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106520/love-
@@ -249,7 +175,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Architecture Playtime
 DTSTART;TZID=America/Toronto:20261206T110000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:9fef08508dd7d05f9d0e9e2d4bcc@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
@@ -263,7 +189,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition tours on the first Sunday of the month
 DTSTART;TZID=America/Toronto:20261206T130000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:0716ad5c51deb8c6ca4f5efd7960@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -278,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Achète de l’art
 DTSTART;TZID=America/Toronto:20261212T170000
-DTSTAMP:20261120T204959Z
+DTSTAMP:20261121T074906Z
 UID:59a3e07e8f96d972518b9ee6b48d@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 12 décembre à 17h\nOriginal listing: htt
