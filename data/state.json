@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T02:37:17.593950-05:00",
+  "updated": "2026-11-22T15:02:05.052080-05:00",
   "events": {
     "86c01f88f8bab86b8e8a549de22e@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -131,19 +131,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "09e65fde82a7d32693e5d81e99d3@montreal-visual-art": {
-      "source": "cca",
-      "source_id": "book-launch-les-modernites-senegalaises-imaginees-par-lecole-darchitecture-et-durbanisme-de-dakar-2026-11-21T10:00:00-05:00",
-      "title": "Book launch: Les modernités sénégalaises imaginées par l’École d’Architecture et d’Urbanisme de Dakar",
-      "start": "2026-11-21T10:00:00-05:00",
-      "end": null,
-      "venue": "Canadian Centre for Architecture",
-      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
-      "url": "https://www.cca.qc.ca/en/events/106334/book-launch-les-modernites-senegalaises-imaginees-par-lecole-darchitecture-et-durbanisme-de-dakar",
-      "description": "Launch",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14030-2026-12-12T17:00:00-05:00",
@@ -155,7 +142,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 25
+      "missing_runs": 26
     }
   }
 }
