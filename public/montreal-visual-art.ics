@@ -7,40 +7,10 @@ X-WR-CALNAME:Montréal Visual Art & Vernissages
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-SUMMARY:Opening: Building Material Cultures: Reengaging Senegalese Craft-B
- ased Building Traditions
-DTSTART;TZID=America/Toronto:20261120T160000
-DTSTAMP:20261121T195205Z
-UID:9e2c15e0b2ed88e140c3bdb589f6@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Opening\nOriginal listing: https://www.cca.qc.ca/en/events/105
- 966/opening-building-material-cultures-reengaging-senegalese-craft-based-b
- uilding-traditions
-LOCATION:Canadian Centre for Architecture\, 1920 rue Baile\, Montréal\, Q
- C H3H 2S6
-STATUS:CANCELLED
-URL:https://www.cca.qc.ca/en/events/105966/opening-building-material-cultu
- res-reengaging-senegalese-craft-based-building-traditions
-X-MONTREAL-VISUAL-ART-SOURCE:cca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vernissage: Plateformes de Karl Lemieux
-DTSTART;TZID=America/Toronto:20261120T170000
-DTSTAMP:20261121T195205Z
-UID:99be3738d348dff3a12585455755@montreal-visual-art
-CATEGORIES:Visual Art\,Vernissage\,Gallery
-DESCRIPTION:Vernissage le vendredi 20 novembre à 17h\nOriginal listing: h
- ttps://reseauartactuel.org/evenement/karl-lemieux-plateformes/
-LOCATION:OBORO\, 4001\, rue Berri\, local 301 \, Montréal\, H2L 4H2
-STATUS:CANCELLED
-URL:https://reseauartactuel.org/evenement/karl-lemieux-plateformes/
-X-MONTREAL-VISUAL-ART-SOURCE:reseau-art-actuel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Book launch: Les modernités sénégalaises imaginées par l’Éc
  ole d’Architecture et d’Urbanisme de Dakar
 DTSTART;TZID=America/Toronto:20261121T100000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:09e65fde82a7d32693e5d81e99d3@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Launch\nOriginal listing: https://www.cca.qc.ca/en/events/1063
@@ -57,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Vernissage: D’amours et d’amitiés et Sulfure vif : documents 
  de recherche
 DTSTART;TZID=America/Toronto:20261126T170000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:169c32d856b2101b62b1d3d18070@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 26 novembre à 17h\nOriginal listing: http
@@ -73,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Border Tuner with Rafael Lozano-Hemmer
 DTSTART;TZID=America/Toronto:20261126T180000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:0f4c5660cc5979563f5c7ce18d18@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Book launch\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -88,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T103000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:7f4fed6da09c9be40cf729f5c358@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -102,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Distance Between Us and the Ground: To Take Measure
 DTSTART;TZID=America/Toronto:20261128T130000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:365e7bcc3af533448e67a6681058@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Workshop\nOriginal listing: https://www.cca.qc.ca/en/events/10
@@ -117,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rencontre: Catherine Beaudette et Evridiki Spiliadis
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:86c01f88f8bab86b8e8a549de22e@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Discussion à Occurrence\nOriginal listing: https://reseauarta
@@ -131,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Table ronde: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:d90faca674e0d7c10c4da8ddfa27@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -145,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Distance Between Us and the Ground: To Hold the Distance
 DTSTART;TZID=America/Toronto:20261129T140000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:95eade50e9683320a51a043959ff@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Screening\nOriginal listing: https://www.cca.qc.ca/en/events/1
@@ -160,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love and Longing in the Islamic Paradise Garden
 DTSTART;TZID=America/Toronto:20261204T140000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:344566ffa4688dbb4a38a04fb56c@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106520/love-
@@ -175,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Architecture Playtime
 DTSTART;TZID=America/Toronto:20261206T110000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:9fef08508dd7d05f9d0e9e2d4bcc@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
@@ -189,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition tours on the first Sunday of the month
 DTSTART;TZID=America/Toronto:20261206T130000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:0716ad5c51deb8c6ca4f5efd7960@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -204,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Achète de l’art
 DTSTART;TZID=America/Toronto:20261212T170000
-DTSTAMP:20261121T195205Z
+DTSTAMP:20261122T073717Z
 UID:59a3e07e8f96d972518b9ee6b48d@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 12 décembre à 17h\nOriginal listing: htt
