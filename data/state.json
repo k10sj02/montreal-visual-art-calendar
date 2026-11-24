@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:32:08.182123-05:00",
+  "updated": "2026-11-24T17:50:42.781145-05:00",
   "events": {
     "bc7ef47e5773f568df43368c51ca@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -105,6 +105,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "a2f8841f60d7d1e0bd8086ff3864@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "zine-launch-the-urban-unknowncca-youth-collective-2026-12-03T18:00:00-05:00",
+      "title": "Zine Launch: The Urban Unknown/CCA Youth Collective",
+      "start": "2026-12-03T18:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106586/zine-launch-the-urban-unknowncca-youth-collective",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "344566ffa4688dbb4a38a04fb56c@montreal-visual-art": {
       "source": "cca",
       "source_id": "love-and-longing-in-the-islamic-paradise-garden-2026-12-04T14:00:00-05:00",
@@ -144,6 +157,32 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "1d7432d47273297a5abcd4914a3e@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "guided-tour-and-film-screening-for-friends-of-the-cca-2026-12-08T18:00:00-05:00",
+      "title": "Guided Tour and Film Screening for Friends of the CCA",
+      "start": "2026-12-08T18:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106593/guided-tour-and-film-screening-for-friends-of-the-cca",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "2354570773eccc6421953d8e1018@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "curatorial-architecture-with-kuehn-malvezzi-2026-12-10T18:00:00-05:00",
+      "title": "Curatorial Architecture with Kuehn Malvezzi",
+      "start": "2026-12-10T18:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106527/curatorial-architecture-with-kuehn-malvezzi",
+      "description": "Book launch",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14030-2026-12-12T17:00:00-05:00",
@@ -155,7 +194,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     }
   }
 }
