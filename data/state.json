@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-23T03:23:56.740697-05:00",
+  "updated": "2026-11-23T19:28:01.762888-05:00",
   "events": {
+    "bc7ef47e5773f568df43368c51ca@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14351-2026-11-27T15:00:00-05:00",
+      "title": "Vernissage: Marché des célébrations",
+      "start": "2026-11-27T15:00:00-05:00",
+      "end": null,
+      "venue": "L’imprimerie centre d’artistes",
+      "address": "3910, rue Ste-Catherine Est, Montréal, H1W 2G4",
+      "url": "https://reseauartactuel.org/evenement/marche-des-celebrations/",
+      "description": "Vernissage le vendredi 27 novembre à 15h",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "86c01f88f8bab86b8e8a549de22e@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14330-2026-11-28T14:00:00-05:00",
@@ -10,7 +23,7 @@
       "venue": "Occurrence",
       "address": "108-5455, ave De Gaspé, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/catherine-beaudette-et-evridiki-spiliadis/",
-      "description": "Discussion à Occurrence",
+      "description": "Discussion à 17h",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -142,7 +155,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     }
   }
 }

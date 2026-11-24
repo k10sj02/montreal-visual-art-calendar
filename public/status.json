@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-23T03:23:56.740697-05:00",
-  "count": 10,
+  "generated": "2026-11-23T19:28:01.762888-05:00",
+  "count": 11,
   "cancelled": 1,
   "sources": {
-    "reseau-art-actuel": 4,
+    "reseau-art-actuel": 5,
     "cca": 6
   },
   "errors": {
