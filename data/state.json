@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-25T04:21:23.101054-05:00",
+  "updated": "2026-11-25T17:02:28.471195-05:00",
   "events": {
+    "354cc979746b127c1d12999d68d8@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14424-2026-12-02T17:30:00-05:00",
+      "title": "Vernissage: Topographie du chaos de Michel Martineau",
+      "start": "2026-12-02T17:30:00-05:00",
+      "end": null,
+      "venue": "Maison de la culture de Parc-Extension",
+      "address": "421, rue St-Roch, Montréal, H3N 1K2",
+      "url": "https://reseauartactuel.org/evenement/topographie-du-chaos-de-michel-martineau/",
+      "description": "Vernissage le mercredi 2 décembre à 17h30",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3fc137f9480d3c79d5dcc911bc26@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "14424-2027-01-16T13:30:00-05:00",
+      "title": "Visite: Topographie du chaos de Michel Martineau",
+      "start": "2027-01-16T13:30:00-05:00",
+      "end": null,
+      "venue": "Maison de la culture de Parc-Extension",
+      "address": "421, rue St-Roch, Montréal, H3N 1K2",
+      "url": "https://reseauartactuel.org/evenement/topographie-du-chaos-de-michel-martineau/",
+      "description": "Vernissage le mercredi 2 décembre à 17h30",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "bc7ef47e5773f568df43368c51ca@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14351-2026-11-27T15:00:00-05:00",
@@ -194,7 +220,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 31
+      "missing_runs": 32
     }
   }
 }
