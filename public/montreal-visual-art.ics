@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Vernissage: D’amours et d’amitiés et Sulfure vif : documents 
  de recherche
 DTSTART;TZID=America/Toronto:20261126T170000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:169c32d856b2101b62b1d3d18070@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 26 novembre à 17h\nOriginal listing: http
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Border Tuner with Rafael Lozano-Hemmer
 DTSTART;TZID=America/Toronto:20261126T180000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:0f4c5660cc5979563f5c7ce18d18@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Book launch\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Marché des célébrations
 DTSTART;TZID=America/Toronto:20261127T150000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:bc7ef47e5773f568df43368c51ca@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le vendredi 27 novembre à 15h\nOriginal listing: h
@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T103000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:7f4fed6da09c9be40cf729f5c358@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -69,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Distance Between Us and the Ground: To Take Measure
 DTSTART;TZID=America/Toronto:20261128T130000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:365e7bcc3af533448e67a6681058@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Workshop\nOriginal listing: https://www.cca.qc.ca/en/events/10
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rencontre: Catherine Beaudette et Evridiki Spiliadis
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:86c01f88f8bab86b8e8a549de22e@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Discussion à 17h\nOriginal listing: https://reseauartactuel.o
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Table ronde: Là où on se tient\, la terre se souvient
 DTSTART;TZID=America/Toronto:20261128T140000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:d90faca674e0d7c10c4da8ddfa27@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernisssage le jeudi 22 octotbre à 18h\nOriginal listing: htt
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Distance Between Us and the Ground: To Hold the Distance
 DTSTART;TZID=America/Toronto:20261129T140000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:95eade50e9683320a51a043959ff@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Screening\nOriginal listing: https://www.cca.qc.ca/en/events/1
@@ -127,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Topographie du chaos de Michel Martineau
 DTSTART;TZID=America/Toronto:20261202T173000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:354cc979746b127c1d12999d68d8@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le mercredi 2 décembre à 17h30\nOriginal listing:
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zine Launch: The Urban Unknown/CCA Youth Collective
 DTSTART;TZID=America/Toronto:20261203T180000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:a2f8841f60d7d1e0bd8086ff3864@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106586/zine-
@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love and Longing in the Islamic Paradise Garden
 DTSTART;TZID=America/Toronto:20261204T140000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:344566ffa4688dbb4a38a04fb56c@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106520/love-
@@ -173,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Architecture Playtime
 DTSTART;TZID=America/Toronto:20261206T110000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:9fef08508dd7d05f9d0e9e2d4bcc@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Young Public\nOriginal listing: https://www.cca.qc.ca/en/event
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition tours on the first Sunday of the month
 DTSTART;TZID=America/Toronto:20261206T130000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:0716ad5c51deb8c6ca4f5efd7960@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Guided tour\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -202,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guided Tour and Film Screening for Friends of the CCA
 DTSTART;TZID=America/Toronto:20261208T180000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:1d7432d47273297a5abcd4914a3e@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Original listing: https://www.cca.qc.ca/en/events/106593/guide
@@ -217,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Curatorial Architecture with Kuehn Malvezzi
 DTSTART;TZID=America/Toronto:20261210T180000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:2354570773eccc6421953d8e1018@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Book launch\nOriginal listing: https://www.cca.qc.ca/en/events
@@ -232,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vernissage: Achète de l’art
 DTSTART;TZID=America/Toronto:20261212T170000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:59a3e07e8f96d972518b9ee6b48d@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le jeudi 12 décembre à 17h\nOriginal listing: htt
@@ -246,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visite: Topographie du chaos de Michel Martineau
 DTSTART;TZID=America/Toronto:20270116T133000
-DTSTAMP:20261125T220228Z
+DTSTAMP:20261126T085930Z
 UID:3fc137f9480d3c79d5dcc911bc26@montreal-visual-art
 CATEGORIES:Visual Art\,Vernissage\,Gallery
 DESCRIPTION:Vernissage le mercredi 2 décembre à 17h30\nOriginal listing:
