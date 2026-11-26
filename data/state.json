@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:59:30.234803-05:00",
+  "updated": "2026-11-26T17:00:22.497600-05:00",
   "events": {
     "354cc979746b127c1d12999d68d8@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -220,7 +220,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 33
+      "missing_runs": 34
     }
   }
 }
