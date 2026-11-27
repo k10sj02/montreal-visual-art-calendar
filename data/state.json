@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T04:13:57.281943-05:00",
+  "updated": "2026-11-27T16:43:38.368492-05:00",
   "events": {
     "354cc979746b127c1d12999d68d8@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -50,32 +50,6 @@
       "address": "108-5455, ave De Gaspé, Montréal, H2T 3B3",
       "url": "https://reseauartactuel.org/evenement/catherine-beaudette-et-evridiki-spiliadis/",
       "description": "Discussion à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "13494-2026-11-28T10:30:00-05:00",
-      "title": "Atelier: Là où on se tient, la terre se souvient",
-      "start": "2026-11-28T10:30:00-05:00",
-      "end": null,
-      "venue": "Galerie McClure ",
-      "address": "350, avenue Victoria, Montréal, H3Z 2N4",
-      "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
-      "description": "Vernisssage le jeudi 22 octotbre à 18h",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "d90faca674e0d7c10c4da8ddfa27@montreal-visual-art": {
-      "source": "reseau-art-actuel",
-      "source_id": "13494-2026-11-28T14:00:00-05:00",
-      "title": "Table ronde: Là où on se tient, la terre se souvient",
-      "start": "2026-11-28T14:00:00-05:00",
-      "end": null,
-      "venue": "Galerie McClure ",
-      "address": "350, avenue Victoria, Montréal, H3Z 2N4",
-      "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
-      "description": "Vernisssage le jeudi 22 octotbre à 18h",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -183,6 +157,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "f2b34cec25d8b3bd80f5ab1c65cc@montreal-visual-art": {
+      "source": "cca",
+      "source_id": "what-remains-2026-12-11T14:00:00-05:00",
+      "title": "What Remains",
+      "start": "2026-12-11T14:00:00-05:00",
+      "end": null,
+      "venue": "Canadian Centre for Architecture",
+      "address": "1920 rue Baile, Montréal, QC H3H 2S6",
+      "url": "https://www.cca.qc.ca/en/events/106613/what-remains",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "427516f0d93e12d9d7517ea40ef1@montreal-visual-art": {
       "source": "cca",
       "source_id": "how-does-solidarity-take-shapebr-suha-hasan-and-gabriela-aquije-in-conversation-2026-12-16T11:00:00-05:00",
@@ -196,6 +183,32 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "7f4fed6da09c9be40cf729f5c358@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "13494-2026-11-28T10:30:00-05:00",
+      "title": "Atelier: Là où on se tient, la terre se souvient",
+      "start": "2026-11-28T10:30:00-05:00",
+      "end": null,
+      "venue": "Galerie McClure ",
+      "address": "350, avenue Victoria, Montréal, H3Z 2N4",
+      "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
+      "description": "Vernisssage le jeudi 22 octotbre à 18h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "d90faca674e0d7c10c4da8ddfa27@montreal-visual-art": {
+      "source": "reseau-art-actuel",
+      "source_id": "13494-2026-11-28T14:00:00-05:00",
+      "title": "Table ronde: Là où on se tient, la terre se souvient",
+      "start": "2026-11-28T14:00:00-05:00",
+      "end": null,
+      "venue": "Galerie McClure ",
+      "address": "350, avenue Victoria, Montréal, H3Z 2N4",
+      "url": "https://reseauartactuel.org/evenement/la-ou-on-se-tient-la-terre-se-souvient/",
+      "description": "Vernisssage le jeudi 22 octotbre à 18h",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "169c32d856b2101b62b1d3d18070@montreal-visual-art": {
       "source": "reseau-art-actuel",
       "source_id": "14324-2026-11-26T17:00:00-05:00",
@@ -206,8 +219,8 @@
       "address": "2940, ch. de la Côte-Ste-Catherine, salle 0056, Montréal, H3C 3J7",
       "url": "https://reseauartactuel.org/evenement/damours-et-damities-et-sulfure-vif-documents-de-recherche/",
       "description": "Vernissage le jeudi 26 novembre à 17h",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0f4c5660cc5979563f5c7ce18d18@montreal-visual-art": {
       "source": "cca",
@@ -219,8 +232,8 @@
       "address": "1920 rue Baile, Montréal, QC H3H 2S6",
       "url": "https://www.cca.qc.ca/en/events/106200/border-tuner-with-rafael-lozano-hemmer",
       "description": "Book launch",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "59a3e07e8f96d972518b9ee6b48d@montreal-visual-art": {
       "source": "reseau-art-actuel",
@@ -233,7 +246,7 @@
       "url": "https://reseauartactuel.org/evenement/14030/",
       "description": "Vernissage le jeudi 12 décembre à 17h",
       "status": "CANCELLED",
-      "missing_runs": 35
+      "missing_runs": 36
     }
   }
 }
